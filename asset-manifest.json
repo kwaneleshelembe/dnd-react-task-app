@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnd-react-task-app/static/css/main.38d18ba6.css",
+    "main.js": "/dnd-react-task-app/static/js/main.0314d113.js",
+    "index.html": "/dnd-react-task-app/index.html",
+    "main.38d18ba6.css.map": "/dnd-react-task-app/static/css/main.38d18ba6.css.map",
+    "main.0314d113.js.map": "/dnd-react-task-app/static/js/main.0314d113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d18ba6.css",
+    "static/js/main.0314d113.js"
+  ]
+}
